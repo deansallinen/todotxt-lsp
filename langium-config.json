@@ -1,0 +1,9 @@
+{
+    "projectName": "Todotxt",
+    "languages": [{
+        "id": "todotxt",
+        "grammar": "src/language/todotxt.langium",
+        "fileExtensions": [".txt"]
+    }],
+    "out": "src/language/generated"
+}
